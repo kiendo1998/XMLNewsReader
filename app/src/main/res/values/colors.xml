@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlue">#1244BE</color>
+    <color name="colorGreen">#1ED50B</color>
+    <color name="colorRed">#C50C11</color>
+    <color name="colorOrange">#DD3F09</color>
+    <color name="colorWhite">#F1EBEB</color>
+    <color name="tabcolor">#a2a2ef</color>
+    <color name="tabselect">#f40404</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="green">#8CFF00</color>
+</resources>

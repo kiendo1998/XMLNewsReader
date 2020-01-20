@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/bao24h/Bao24hControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/bao24h/Bao24hFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/congannhandan/CandControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/congannhandan/CongannhandanFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/dautu/DautuControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/dautu/DautuFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/giaoducthoidai/GdtdControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/giaoducthoidai/GiaoducthoidaiFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/ngoisao/NgoisaoControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/ngoisao/NgoisaoFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/nguoilaodong/NguoilaodongControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/nguoilaodong/NguoilaodongFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/thanhnien/ThanhnienControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/thanhnien/ThanhnienFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/tienphong/TienphongControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/tienphong/TienphongFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/tintuc/TintucControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/tintuc/TintucFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/trithuc/TrithucControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/trithuc/TrithucFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/tuoitre/TuoitreControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/tuoitre/TuoitreFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/vietnamnet/VietnamnetControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/vietnamnet/VietnamnetFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/vneconomy/VneconomyControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/vneconomy/VneconomyFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/vnexpress/VnexpressControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/vnexpress/VnexpressFragment.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/vtcnews/ControlActivity.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/kiendo/vietnamnews/vtcnews/VtcnewsFragment.java" charset="ISO-8859-1" />
+  </component>
+</project>
